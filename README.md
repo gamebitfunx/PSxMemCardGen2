@@ -3,7 +3,9 @@
 
 ---
 
-PsxMemCard Gen2 is an optimized version based on the SD2PSX open-source project, designed to emulate PlayStation 1 (PS1) and PlayStation 2 (PS2) memory cards. This product allows users to store an unlimited number of game saves, fully leveraging modern storage technology and eliminating the limitations of traditional memory card storage capacity.
+PsxMemCard Gen2 is an optimized version based on the [SD2PSX](https://github.com/sd2psx) open-source project, designed to emulate PlayStation 1 (PS1) and PlayStation 2 (PS2) memory cards. This product allows users to store an unlimited number of game saves, fully leveraging modern storage technology and eliminating the limitations of traditional memory card storage capacity.
+
+- Compatible with [sd2psXtd](https://github.com/sd2psXtd/firmware/releases) firmware ，Use ***sd2psx*** firmware variant.
 
 #### Feature
 
